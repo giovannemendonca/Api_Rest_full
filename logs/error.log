@@ -1,0 +1,9 @@
+2022-12-22 16:00:57:057 - [31merror[39m: [31mNão foi Possivel Conectar[39m 
+2022-12-22 16:00:57:057 - [31merror[39m: [31mInvalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"[39m 
+2022-12-22 23:03:29:329 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "0445454" (type string) at path "_id" for model "Movie"[39m 
+2022-12-22 23:04:31:431 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "1154545012132121" (type string) at path "_id" for model "Movie"[39m 
+2022-12-22 23:05:12:512 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "1154545012132121" (type string) at path "_id" for model "Movie"[39m 
+2022-12-22 23:05:50:550 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "1154545012132121" (type string) at path "_id" for model "Movie"[39m 
+2022-12-22 23:07:11:711 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "1154545012132121" (type string) at path "_id" for model "Movie"[39m 
+2022-12-22 23:08:44:844 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "1154545012132121" (type string) at path "_id" for model "Movie"[39m 
+2022-12-22 23:10:04:104 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "63a50cc1f175f9cb259ad" (type string) at path "_id" for model "Movie"[39m 
