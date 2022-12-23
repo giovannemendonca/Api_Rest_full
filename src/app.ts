@@ -1,23 +1,14 @@
 require("dotenv").config()
-import express, { Router } from "express";
+import express from "express";
 import  config  from "config";
-import router from "./routes";
 import logger from "../config/logger";
-import morganMiddlware from "./middleware/morganMiddleware";
 import db from "../config/db"
+import { routes } from "./routes/index";
 
 
-const app = express()
-
-// JSON middleware
-app.use(express.json())
-
-app.use(morganMiddlware)
-
-app.use("/api/", router)
-
-// app port
+const app = express();
 const port  =config.get<number>("port")
+routes(app)
 
 
 app.listen(port, async() => {

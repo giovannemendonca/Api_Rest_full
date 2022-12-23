@@ -262,3 +262,84 @@
 [35m[39m 
 2022-12-22 23:34:55:3455 - [35mhttp[39m: [35mPATCH /api/movie/63a50cc1f175f9cb259adf97 -[39m
 [35m[39m 
+2022-12-23 17:30:32:3032 - [32minfo[39m: [32mConectou ao banco de dados[39m 
+2022-12-23 17:30:32:3032 - [32minfo[39m: [32mAplicação está rodando na porta: 3000[39m 
+2022-12-23 17:38:06:386 - [32minfo[39m: [32mConectou ao banco de dados[39m 
+2022-12-23 17:38:06:386 - [32minfo[39m: [32mAplicação está rodando na porta: 3000[39m 
+2022-12-23 17:38:44:3844 - [32minfo[39m: [32mConectou ao banco de dados[39m 
+2022-12-23 17:38:44:3844 - [32minfo[39m: [32mAplicação está rodando na porta: 3000[39m 
+2022-12-23 17:44:15:4415 - [32minfo[39m: [32mConectou ao banco de dados[39m 
+2022-12-23 17:44:15:4415 - [32minfo[39m: [32mAplicação está rodando na porta: 3000[39m 
+2022-12-23 17:44:31:4431 - [35mhttp[39m: [35mGET /api/movie/ -[39m
+[35m[39m 
+2022-12-23 17:45:00:450 - [35mhttp[39m: [35mGET /movie/ -[39m
+[35m[39m 
+2022-12-23 17:45:29:4529 - [32minfo[39m: [32mConectou ao banco de dados[39m 
+2022-12-23 17:45:29:4529 - [32minfo[39m: [32mAplicação está rodando na porta: 3000[39m 
+2022-12-23 17:45:33:4533 - [35mhttp[39m: [35mGET /movie/ -[39m
+[35m[39m 
+2022-12-23 17:46:11:4611 - [32minfo[39m: [32mConectou ao banco de dados[39m 
+2022-12-23 17:46:11:4611 - [32minfo[39m: [32mAplicação está rodando na porta: 3000[39m 
+2022-12-23 17:47:10:4710 - [32minfo[39m: [32mConectou ao banco de dados[39m 
+2022-12-23 17:47:10:4710 - [32minfo[39m: [32mAplicação está rodando na porta: 3000[39m 
+2022-12-23 17:47:19:4719 - [32minfo[39m: [32mConectou ao banco de dados[39m 
+2022-12-23 17:47:19:4719 - [32minfo[39m: [32mAplicação está rodando na porta: 3000[39m 
+2022-12-23 17:47:26:4726 - [35mhttp[39m: [35mGET /movie/ -[39m
+[35m[39m 
+2022-12-23 17:47:56:4756 - [32minfo[39m: [32mConectou ao banco de dados[39m 
+2022-12-23 17:47:56:4756 - [32minfo[39m: [32mAplicação está rodando na porta: 3000[39m 
+2022-12-23 17:48:30:4830 - [32minfo[39m: [32mConectou ao banco de dados[39m 
+2022-12-23 17:48:30:4830 - [32minfo[39m: [32mAplicação está rodando na porta: 3000[39m 
+2022-12-23 17:48:36:4836 - [35mhttp[39m: [35mGET /movie/63a50cbbf175f9cb259adf95 -[39m
+[35m[39m 
+2022-12-23 17:49:11:4911 - [32minfo[39m: [32mConectou ao banco de dados[39m 
+2022-12-23 17:49:11:4911 - [32minfo[39m: [32mAplicação está rodando na porta: 3000[39m 
+2022-12-23 17:49:45:4945 - [32minfo[39m: [32mConectou ao banco de dados[39m 
+2022-12-23 17:49:45:4945 - [32minfo[39m: [32mAplicação está rodando na porta: 3000[39m 
+2022-12-23 17:49:51:4951 - [35mhttp[39m: [35mPOST /movie -[39m
+[35m[39m 
+2022-12-23 17:50:01:501 - [35mhttp[39m: [35mGET /movie/63a50cbbf175f9cb259adf95 -[39m
+[35m[39m 
+2022-12-23 17:50:07:507 - [35mhttp[39m: [35mGET /movie/ -[39m
+[35m[39m 
+2022-12-23 17:50:31:5031 - [35mhttp[39m: [35mPOST /movie -[39m
+[35m[39m 
+2022-12-23 17:50:37:5037 - [32minfo[39m: [32mConectou ao banco de dados[39m 
+2022-12-23 17:50:37:5037 - [32minfo[39m: [32mAplicação está rodando na porta: 3000[39m 
+2022-12-23 17:50:40:5040 - [35mhttp[39m: [35mPOST /movie -[39m
+[35m[39m 
+2022-12-23 17:50:44:5044 - [35mhttp[39m: [35mGET /movie/ -[39m
+[35m[39m 
+2022-12-23 17:50:48:5048 - [35mhttp[39m: [35mPOST /movie -[39m
+[35m[39m 
+2022-12-23 17:51:25:5125 - [32minfo[39m: [32mConectou ao banco de dados[39m 
+2022-12-23 17:51:25:5125 - [32minfo[39m: [32mAplicação está rodando na porta: 3000[39m 
+2022-12-23 17:51:29:5129 - [35mhttp[39m: [35mPOST /movie -[39m
+[35m[39m 
+2022-12-23 17:52:12:5212 - [32minfo[39m: [32mConectou ao banco de dados[39m 
+2022-12-23 17:52:12:5212 - [32minfo[39m: [32mAplicação está rodando na porta: 3000[39m 
+2022-12-23 17:52:15:5215 - [35mhttp[39m: [35mPOST /movie -[39m
+[35m[39m 
+2022-12-23 17:52:19:5219 - [35mhttp[39m: [35mPOST /movie -[39m
+[35m[39m 
+2022-12-23 17:52:46:5246 - [32minfo[39m: [32mConectou ao banco de dados[39m 
+2022-12-23 17:52:46:5246 - [32minfo[39m: [32mAplicação está rodando na porta: 3000[39m 
+2022-12-23 17:52:49:5249 - [35mhttp[39m: [35mPOST /movie -[39m
+[35m[39m 
+2022-12-23 17:53:40:5340 - [32minfo[39m: [32mConectou ao banco de dados[39m 
+2022-12-23 17:53:40:5340 - [32minfo[39m: [32mAplicação está rodando na porta: 3000[39m 
+2022-12-23 17:53:51:5351 - [35mhttp[39m: [35mPOST /movie -[39m
+[35m[39m 
+2022-12-23 17:53:54:5354 - [35mhttp[39m: [35mGET /movie/ -[39m
+[35m[39m 
+2022-12-23 17:54:36:5436 - [32minfo[39m: [32mConectou ao banco de dados[39m 
+2022-12-23 17:54:36:5436 - [32minfo[39m: [32mAplicação está rodando na porta: 3000[39m 
+2022-12-23 17:54:37:5437 - [35mhttp[39m: [35mDELETE /movie/63a6155e1fc308716852312e -[39m
+[35m[39m 
+2022-12-23 17:54:45:5445 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "63a6155e1fc308716852312sd" (type string) at path "_id" for model "Movie"[39m 
+2022-12-23 17:54:45:5445 - [35mhttp[39m: [35mDELETE /movie/63a6155e1fc308716852312sd -[39m
+[35m[39m 
+2022-12-23 17:57:11:5711 - [32minfo[39m: [32mConectou ao banco de dados[39m 
+2022-12-23 17:57:11:5711 - [32minfo[39m: [32mAplicação está rodando na porta: 3000[39m 
+2022-12-23 17:57:28:5728 - [32minfo[39m: [32mConectou ao banco de dados[39m 
+2022-12-23 17:57:28:5728 - [32minfo[39m: [32mAplicação está rodando na porta: 3000[39m 
